@@ -9,7 +9,7 @@
     随机邮箱测试用例偶尔可能重复注册，偶尔会跑Fail/概率极低，建议买彩票
     最后，祝你身体健康，再见
 '''
-__all__ = ('iwebsnsTest')  #可以导出的类
+
 #全局变量
 DRIVER = 'F:\Tools\\auto_Driver\chromedriver.exe'  # 驱动路径，自己更改
 REPORT = {'mail':'731465297@qq.com',  #测试结果需要发送的邮箱地址信息
